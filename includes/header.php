@@ -114,15 +114,11 @@ ol>li {
         <div class="col-md-3 col-xs-9" style="z-index:9;">
             <a href="index.php">
                 <img src="./image/logo2.png" alt="Rajalakshmi Engineering College" class="logo"
-                    title="Rajalakshmi Engineering College (REC), Chennai" />
+                    title="" />
             </a>
 
         </div>
-        <div class="col-md-5 col-md-5-custom col-xs-3 aspire"> <a
-                href="http://www.rajalakshmi.org/downloads/ARIIA/REC_ARIIA_ DATASUBMISSIONDETAILREPORT.pdf"
-                target="_blank"><img src="https://www.rajalakshmi.org//image/UN-logo.png"
-                    alt="MEMBER - UNITED NATIONS ACADEMIC IMPACT" title="MEMBER - UNITED NATIONS ACADEMIC IMPACT" /></a>
-        </div>
+       
         <span class="top-bar-menu">
             <ul>
                 <li style="padding-left:15px;"></li>

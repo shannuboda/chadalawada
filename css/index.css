@@ -13,31 +13,31 @@
 }
 .banner-2
 {
-	background:url(../image/banner-6.jpg) no-repeat;
+	background:url(../image/b1.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
 .banner-3
 {
-	background:url(../image/banner-3.jpg) no-repeat;
+	background:url(../image/b2.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
 .banner-4
 {
-	background:url(../image/banner-4.jpg) no-repeat;
+	background:url(../image/b3.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
 .banner-5
 {
-	background:url(../image/banner-2.jpg) no-repeat;
+	background:url(../image/b1.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
 .banner-6
 {
-	background:url(../image/banner-8.jpg) no-repeat;
+	background:url(../image/b4.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
@@ -52,7 +52,7 @@
 @media (min-width: 770px) {
 .banner-8
 {
-	background:url(../image/banner-9.jpg) no-repeat;
+	background:url(../image/b5.jpg) no-repeat;
 	background-size:cover;
 	background-position:center;
 }
